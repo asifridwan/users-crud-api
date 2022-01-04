@@ -1,4 +1,4 @@
-# User CRUD Rest API
+# Users CRUD Rest API
 
 This is a simple but powerful Rest API that can be used for CRUD (Create, Read, Update, Delete) operations for 
 creating, getting, deleting and updating users as well as the user's information for any kind of modern system
