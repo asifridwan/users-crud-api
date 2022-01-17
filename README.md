@@ -23,3 +23,5 @@ npm start
 ```
 
 Open your browser and go to : http://localhost:5000/ to start using it right away !
+
+Feel free to mess around with the source code to see how I made it
