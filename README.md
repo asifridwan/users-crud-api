@@ -11,8 +11,7 @@ The main entry point is through the /users route which provides the following op
 
 ![Alt Text](https://raw.githubusercontent.com/asifridwan/users-crud-api/main/screens/api-methods.png)
 
-How to use ?
------------------
+## How to use ?
 
 Open terminal and clone this repo and then type the following commands :
 
@@ -23,5 +22,16 @@ npm start
 ```
 
 Open your browser and go to : http://localhost:5000/ to start using it right away !
+
+In order to test all functionalties you will need either of the following :
+
+- Postman
+- Microsoft Azure API Management
+- Amazon API Gateway
+- IBM API Connect
+- MuleSoft Anypoint Platform
+- [Or any other alternative programs](https://alternativeto.net/software/postman/)
+
+Use any one of the above programs to test all available requests and observe the output
 
 Feel free to mess around with the source code to see how I made it
