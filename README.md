@@ -23,7 +23,7 @@ npm start
 
 Open your browser and go to : http://localhost:5000/ to start using it right away !
 
-In order to test all functionalties you will need either of the following :
+In order to test all functionalties you will need anyone of the following :
 
 - Postman
 - Microsoft Azure API Management
